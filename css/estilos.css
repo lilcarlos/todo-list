@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+a {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#card1 {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    border-style: solid;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 20px;
+    box-shadow: 1px 7px 8px -7px;
+    
+    
+}
+
+body {
+    background-color: silver;
+}
+
+strong {
+    font-size: 15px;
+    padding: 20px;
+    
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    
+}
+
+footer {
+    position: fixed;
+    width: 100vw;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    bottom: 0px;
+}
+
+input {
+    height: 35px;
+    width: 400px;
+}
+
+#add {
+    height: 40px;
+    width: 40px;
+    
+}
