@@ -20,6 +20,7 @@ a {
     box-shadow: 1px 7px 8px -7px;
     
     
+    
 }
 
 body {
@@ -45,6 +46,7 @@ footer {
     padding: 10px;
     justify-content: center;
     bottom: 0px;
+    margin-top: 0px;
 }
 
 input {
@@ -61,3 +63,4 @@ input {
 #tarefa-digitada {
     margin-right: 30px;
 }
+
